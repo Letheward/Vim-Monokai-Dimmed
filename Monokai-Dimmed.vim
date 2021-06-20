@@ -35,9 +35,12 @@ hi MoreMsg                     guifg=#ffffff  guibg=#204040  gui=NONE cterm=NONE
 hi ModeMsg                     guifg=#c5c8c6  guibg=#1e1e1e  gui=NONE cterm=NONE
 hi Question                    guifg=#ffffff  guibg=#204040  gui=NONE cterm=NONE
 
+hi CursorLineNr                guifg=#949494  guibg=#1e1e1e  gui=NONE cterm=NONE
+hi CursorLine                                 guibg=#303030  gui=NONE cterm=NONE
+hi CursorColumn                               guibg=#303030  gui=NONE cterm=NONE
+ 
 " Temp
 hi NvimInternalError           guifg=#c5c8c6  guibg=#1e1e1e  gui=NONE cterm=NONE
-hi CursorLineNr                guifg=#c5c8c6  guibg=#1e1e1e  gui=NONE cterm=NONE
 hi WildMenu                    guifg=#c5c8c6  guibg=#1e1e1e  gui=NONE cterm=NONE
 hi FoldColumn                  guifg=#c5c8c6  guibg=#1e1e1e  gui=NONE cterm=NONE
 hi DiffAdd                     guifg=#c5c8c6  guibg=#1e1e1e  gui=NONE cterm=NONE
