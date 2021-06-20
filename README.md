@@ -47,6 +47,7 @@ It's recommended to use this on Neovim with nvim-qt.
         colorscheme Monokai-Dimmed
         GuiTabline 0
         GuiPopupmenu 0
+        set cursorline
         ~~~
     
         Additionally, you can add something like:
