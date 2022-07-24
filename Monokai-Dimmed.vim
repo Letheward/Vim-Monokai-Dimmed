@@ -79,6 +79,10 @@ hi PreProc                     guifg=#9872a2                          cterm=NONE
 " Type
 hi Type                        guifg=#9872a2                 gui=NONE cterm=NONE
 
+" Function
+hi Function                    guifg=#ce6700                 gui=NONE cterm=NONE
+hi UserType                    guifg=#c7444a                          cterm=NONE
+
 " Special
 hi Special                     guifg=#8080ff                          cterm=NONE
 hi Typedef                     guifg=#676867                          cterm=NONE
